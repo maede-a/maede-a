@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a graduate student at ECE department at Queen's University.
+I'm currently working on building GenAI tools that people actually use.
